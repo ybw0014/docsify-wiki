@@ -1,1 +1,1 @@
-# docsift wiki template
+# docsify wiki template
